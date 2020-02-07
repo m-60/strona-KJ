@@ -1,0 +1,2 @@
+# strona-KJ
+repozytorium strona
